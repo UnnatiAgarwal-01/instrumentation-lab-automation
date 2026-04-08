@@ -1,4 +1,4 @@
-# Instrumentation Lab Automation System
+# Scada-simulation-python
 
 A Python-based simulation of an industrial monitoring system used in instrumentation engineering.
 
