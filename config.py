@@ -1,0 +1,4 @@
+#Create threshoulds
+TEMP_LIMIT = 80
+PRESSURE_LIMIT = 8
+FLOW_LIMIT = 40
