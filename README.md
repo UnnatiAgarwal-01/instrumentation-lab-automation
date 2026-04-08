@@ -1,1 +1,19 @@
-# instrumentation-lab-automation
+# Instrumentation Lab Automation System
+
+A Python-based simulation of an industrial monitoring system used in instrumentation engineering.
+
+## Features
+- Temperature, Pressure, and Flow simulation
+- Alert system for abnormal conditions
+- Data logging to file
+- Modular design (sensor, alert, config, logger)
+
+## Technologies
+- Python
+- File Handling
+- Modular Programming
+
+## How to Run
+```bash
+cd folder
+python main.py
